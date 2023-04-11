@@ -5,3 +5,12 @@ Click on "Load unpacked" in the upper left corner.
 Select the folder where you downloaded the source code.
 The ChatGPT to PDF Chrome Plugin should now be installed and ready to use.
 Please let me know if you have any issues during the installation process or if you have any feedback on the plugin's functionality.
+Create a new directory for the project.
+Initialize a new npm project inside the directory with npm init.
+Install the required dependencies with npm install pdfkit pygments papa-parse.
+Create a new HTML file for the plugin's user interface.
+Create a new JavaScript file for the plugin's functionality.
+Add a button to the HTML file with an onclick event that calls the JavaScript function that initiates the conversion process.
+Use pdfkit, pygments, and papa-parse to format the ChatGPT conversation and generate the PDF output.
+Test the plugin to ensure that it works as intended and meets all of the specifications outlined in the technical specification document.
+Once testing is complete, package the plugin as a Chrome extension and release it to the Chrome Web Store.
