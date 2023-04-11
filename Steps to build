@@ -1,0 +1,7 @@
+Download the source code from the repository.
+Open the Chrome browser and go to "chrome://extensions/".
+Enable "Developer mode" by toggling the switch in the upper right corner.
+Click on "Load unpacked" in the upper left corner.
+Select the folder where you downloaded the source code.
+The ChatGPT to PDF Chrome Plugin should now be installed and ready to use.
+Please let me know if you have any issues during the installation process or if you have any feedback on the plugin's functionality.
