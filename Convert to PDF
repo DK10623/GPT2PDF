@@ -1,0 +1,8 @@
+		doc.end();
+
+		// Display a confirmation message to the user
+		alert('Conversion to PDF complete. Please check your downloads folder.');
+
+		// Clear the ChatGPT conversation from the prompt
+		prompt('Please enter the ChatGPT conversation you would like to convert to PDF:', '');
+}
