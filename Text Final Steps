@@ -1,0 +1,4 @@
+Zip the project directory with zip -r ChatGPT-to-PDF.zip . in the terminal.
+Upload the ZIP file to the Chrome Web Store.
+Publish the plugin to the Chrome Web Store.
+Once the plugin is published, users can install it by navigating to the plugin's page on the Chrome Web Store and clicking the "Add to Chrome" button. The plugin will then be available for use in the Chrome browser.
